@@ -1,0 +1,1 @@
+(function hitokoto(){var hitokoto="当人们做不到一些事情的时候，他们会对你说你也同样不能。";var dom=document.querySelector('#hitokoto');Array.isArray(dom)?dom[0].innerText=hitokoto:dom.innerText=hitokoto;})()
